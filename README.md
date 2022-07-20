@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://i.ibb.co/gWNMWNj/prof.jpg" width="540" height="390">
-</div>
-
 ## Olá mundo! 
 Meu nome é Cleciana Mª Santana, tenho 23 anos e atualmente sou estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Estou aprendendo desenvolvimento web, mais focado em backend. Também tenho interesse em Segurança da Informação e Análise de Dados, mas essas áreas ainda estou explorando.
 
