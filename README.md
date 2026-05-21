@@ -1,12 +1,12 @@
 ## Olá mundo! 
-Meu nome é Cleciana Santana, tenho 24 anos e atualmente sou estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Estou aprendendo desenvolvimento web (gosto mais de backend). Também tenho interesse em Segurança da Informação.
+Me chamo Cleciana Santana, recém formada em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG). Desenvolvedora web (gosto mais de backend), e também tenho interesse em Segurança da Informação, tendo desenvolvido meu TCC na área de governança de dados.
 
-Meus passatempos incluem: Ler, assistir e conversar sobre séries/filmes/documentarios, desenho, faço tudo ouvindo música, e vez ou outra gosto de participar de CTFs.
+Meus passatempos incluem: Ler, fazer artesanato, ter ideias de projetos pessoais que não tenho tempo de fazer e conversar sobre séries/filmes/documentarios. Eu também desenho, faço tudo ouvindo música, e gosto de participar de CTFs.
 
 ## Hello World!
-My name is Cleciana , I'm 24 years old and I'm currently a student of Computer Science at Federal University of Campina Grande (UFCG). I'm learning web development (I enjoy backend more). I'm also interested in Information Security.
+My name is Cleciana Santana, a recent Computer Science graduate from the Federal University of Campina Grande (UFCG). I'm a web developer (I prefer backend), and I also have an interest in Information Security, having developed my undergraduate thesis in the area of data governance.
 
-My hobbies include: Reading, watching and talking about series/movies/documentaries, drawing, I do everything listening to music, and occasionally I like to participate in CTFs.
+My hobbies include: Reading, crafting, coming up with ideas for personal projects that I never have time to actually build, and talking about series/movies/documentaries. I also draw, I do everything while listening to music, and I enjoy participating in CTFs.
 
 ## Tech:
 
@@ -32,9 +32,8 @@ My hobbies include: Reading, watching and talking about series/movies/documentar
 
 ## You can find me at:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleciana-maria-de-santana-309091149/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleciana-santana-01884934a/)
 [<img src="https://img.shields.io/github/followers/cleciana?label=follow&style=social" height="22" title="Follow me" />](https://github.com/cleciana) 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/cleciana.santanaa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cleciana.santana@ccc.ufcg.edu.br)
 ![Discord](https://img.shields.io/badge/Discord-Cleh%230366-white?style=flat&logoColor=white)
